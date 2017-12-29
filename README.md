@@ -11,6 +11,7 @@ Pig_Identification_inception-v3.ipynb是一个fine-tuning的实例，由于硬�
 Pig_Identification_predict.ipynb是一个预测文件  
 Results and Discussion.ipynb是一个对猪脸识别项目的结果分析文件，没有涉及测试集，分析数据来自于训练结果和验证结果
  
-数据暂存放在百度云：链接: https://pan.baidu.com/s/1pKTTMRp 密码: 99gx
+数据暂存放在百度云：链接: https://pan.baidu.com/s/1pKTTMRp 密码: 99gx  
+
  
 欢迎批评指正
