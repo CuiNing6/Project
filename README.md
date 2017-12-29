@@ -1,5 +1,5 @@
-# Project
-Pig_Identification_project
+# Pig_Identification_project  
+
 codes文件夹存放源码  
 doc文件夹存放训练文件  
 images存放实验过程中的图片
