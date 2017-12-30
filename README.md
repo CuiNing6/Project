@@ -14,4 +14,5 @@ Results and Discussion.ipynb是一个对猪脸识别项目的结果分析文件�
 数据暂存放在百度云：链接: https://pan.baidu.com/s/1pKTTMRp 密码: 99gx  
 
  
-欢迎批评指正
+欢迎批评指正，
+ 如果发现错误，请及时与我联系
