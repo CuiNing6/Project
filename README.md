@@ -15,4 +15,5 @@ Results and Discussion.ipynb是一个对猪脸识别项目的结果分析文件�
 
  
 欢迎批评指正，
- 如果发现错误，请及时与我联系
+ 如果发现错误，请及时与我联系  
+ 邮箱：ning_cui@foxmail.com
